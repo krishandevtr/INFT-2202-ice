@@ -1,0 +1,10 @@
+<script>start("c:\\Users\\krish\\OneDrive\\Desktop\\t\\INFT2202\\ice\\client\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("app","app",1,0,"0 B",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("css","css",1,0,"0 B",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("img","img",1,0,"0 B",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("about.html","about.html",0,0,"0 B",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("contact.html","contact.html",0,0,"0 B",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("create.html","create.html",0,4552,"4.4 kB",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("index.html","index.html",0,4080,"4.0 kB",1737178882,"1/18/25, 12:41:22 AM");</script>
+<script>addRow("list.html","list.html",0,3376,"3.3 kB",1737178882,"1/18/25, 12:41:22 AM");</script>
