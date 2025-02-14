@@ -96,3 +96,9 @@ function onDeleteButtonClick(animal) {
         window.location.reload();
     }
 }
+
+function onEditButtonClick(animal) {
+    return event => {
+        animalService.updateAnimal(animal);
+    }
+}
