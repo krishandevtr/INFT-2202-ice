@@ -8,19 +8,12 @@
 </head>
 <body class="container mt-5">
     <h2 class="text-center">Product List</h2>
-    <table class="table table-bordered mt-3">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Stock</th>
-                <th>Price ($)</th>
-                <th>Actions</th>
-            </tr>
-        </thead>
-        <tbody id="productTableBody"></tbody>
-    </table>
-    <a href="product.html" class="btn btn-primary">Add New Product</a>
-    <script src="js/storage.js"></script>
+    <div class="w-100% d-flex justify-content-center items-center">
+        <a href="product.html" class="btn btn-primary">Add New Product</a>
+
+    </div>
+    <div id="productList" class="row mt-4"></div>
+    
+    <script type="module" src="js/list.js"></script>
 </body>
 </html>
